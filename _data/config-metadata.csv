@@ -3,6 +3,7 @@ title,Name,
 date,Date of Birth,
 location,Place of Birth,
 location2,Place of Residence,
+fieldofwork, Field of Work,
 description,Biography,
 keywords,Keywords,true
 creator,Image Creator,

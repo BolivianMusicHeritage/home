@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Bolivian Music Heritage Initiative; Meet the Team; Technical Credits-Collection Builder" %}
+{% include feature/nav-menu.html sections="About the Bolivian Music Heritage Initiative; Meet the Team" %}
 
 ## About the Bolivian Music Heritage Initiative
 
@@ -24,19 +24,12 @@ The creation of this digital collection is supported and funded by the CSUF Digi
 
 ## Meet the Team
 
--Vivianne Asturizaga is a scholar specializing in Bolivian music. Dr. Astutizaga’s research also uncovers music of the baroque, performance practices in the Bolivian Chiquito Missions, and urban music cultures that embody Indigenous musical practices in La Paz and the U.S. She presented at conferences held by the Societies for Ethnomusicology and American Musicology, in Bolivia, and Colombia. She recently won two 2024 digital humanities awards from the Society for American Music: Digital Lectures with her project “Bolivian Musical Heritage: The Artistry of Jaime Mendoza-Nava” and “2024 Sight & Sound Subvention fund for her work on the composers’ database. As an arts manager, she led music tours, research projects, World Music ensemble performances at Florida State University, and online performances by the Bolivian Musicians in the U.S. Collective.
+<blockquote>
+  
+<p><strong>Vivianne Asturizaga</strong> is a scholar specializing in Bolivian music. Dr. Astutizaga’s research also uncovers music of the baroque, performance practices in the Bolivian Chiquito Missions, and urban music cultures that embody Indigenous musical practices in La Paz and the U.S. She presented at conferences held by the Societies for Ethnomusicology and American Musicology, in Bolivia, and Colombia. She recently won two 2024 digital humanities awards from the Society for American Music: Digital Lectures with her project “Bolivian Musical Heritage: The Artistry of Jaime Mendoza-Nava” and “2024 Sight & Sound Subvention fund for her work on the composers’ database. As an arts manager, she led music tours, research projects, World Music ensemble performances at Florida State University, and online performances by the Bolivian Musicians in the U.S. Collective.</p>
 
--Kellie Lanham-Friedman is the newly appointed Arts and Makerspace Librarian at CSUF. She has the privilege of being the first Librarian to oversee the Pollak Library Makerspace. In this role, she has created new instruction sessions, teaching students and faculty how to incorporate technology into their coursework. Examples of this are podcasting sessions, bookmaking workshops, and virtual reality labs for courses across campus. She has researched technology in the Arts and presented a paper titled, A Makerspace for University Art Students: a Review and Case Study, at the 2023 ARLIS/NA Annual Conference. As a librarian, she instructed patrons on how to use databases effectively. As a student of librarianship, she made database prototypes and conducted quality and user testing.
+<p><strong>Kellie Lanham-Friedman</strong> is the newly appointed Arts and Makerspace Librarian at CSUF. She has the privilege of being the first Librarian to oversee the Pollak Library Makerspace. In this role, she has created new instruction sessions, teaching students and faculty how to incorporate technology into their coursework. Examples of this are podcasting sessions, bookmaking workshops, and virtual reality labs for courses across campus. She has researched technology in the Arts and presented a paper titled, A Makerspace for University Art Students: a Review and Case Study, at the 2023 ARLIS/NA Annual Conference. As a librarian, she instructed patrons on how to use databases effectively. As a student of librarianship, she made database prototypes and conducted quality and user testing.</p>
 
--Victoria García is a history graduate student at CSUF pursuing an M.A. in history with a concentration in  Chicanx studies. Her research interests include Mexican-American history in LA, the history of Mexican food in the U.S., public history, and gender history. She is the principal developer of this CollectionBuilder collection. 
+<p><strong>Victoria Garcia</strong> is a history graduate student at CSUF pursuing an M.A. in history with a concentration in  Chicanx studies. Her research interests include Mexican-American history in LA, the history of Mexican food in the U.S., public history, and gender history. She is the principal developer of this CollectionBuilder collection.</p>
 
-
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+</blockqoute>
